@@ -1,0 +1,10 @@
+# Local .terraform directories
+**/.terraform/*
+.terraform.*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Include tfplan files to ignore any generated plan files
+*.tfplan
