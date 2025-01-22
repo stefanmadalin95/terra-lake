@@ -8,3 +8,5 @@
 
 # Include tfplan files to ignore any generated plan files
 *.tfplan
+
+terraform.tfvars
